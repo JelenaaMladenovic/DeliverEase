@@ -1,5 +1,5 @@
 # DeliverEase
-DeliverEase - MongoDB projkat
+DeliverEase - MongoDB projekat
 
 Mongo pokrenut preko dockera
 
