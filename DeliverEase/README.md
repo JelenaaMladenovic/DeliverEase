@@ -1,7 +1,5 @@
 # DeliverEase
-DeliverEase projekat za Napredne Baze Podataka
-
-Nikola Đorđević 18153, Anastasija Mirović 18281
+DeliverEase - MongoDB projkat
 
 Mongo pokrenut preko dockera
 
